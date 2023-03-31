@@ -1,14 +1,14 @@
 {
   "listuser": [
     {
-      "iduser": 0,
+      "id": 0,
       "sdt": "0352665001",
       "mk": "lolquan1"
     }
   ],
   "chuyendi": [
     {
-      "iduser": 0,
+      "id": 0,
       "listphong": [
         { 
           "id":0,
@@ -22,7 +22,7 @@
   ],
   "yeuthich": [
     {
-      "iduser": 0,
+      "id": 0,
       "listphong": [
         {
           "id":0,
@@ -35,7 +35,7 @@
   }
 ],
   "hire": [    {
-    "iduser": 0,
+    "id": 0,
     "listphong": [
       {
         "id":0,
