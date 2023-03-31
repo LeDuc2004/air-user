@@ -1,18 +1,49 @@
 {
-    "listuser": [
+  "listuser": [
+    {
+      "iduser": 0,
+      "sdt": "0352665001",
+      "mk": "lolquan1"
+    }
+  ],
+  "chuyendi": [
+    {
+      "iduser": 0,
+      "listphong": [
+        { 
+          "id":0,
+          "option": "khungcanh",
+          "idoption": 1,
+          "name": "Thành phố hướng biển",
+          "listimg": ""
+        }
+      ]
+    }
+  ],
+  "yeuthich": [
+    {
+      "iduser": 0,
+      "listphong": [
+        {
+          "id":0,
+          "option": "khungcanh",
+          "idoption": 1,
+          "name": "Thành phố hướng biển",
+          "listimg": ""
+        }
+      ]
+  }
+],
+  "hire": [    {
+    "iduser": 0,
+    "listphong": [
       {
-      }
-    ],
-    "phongdadat": [
-      {
-      }
-    ],
-    "phongyeuthich": [
-      {
-      }
-    ],
-    "phongchothue": [
-      {
+        "id":0,
+        "option": "khungcanh",
+        "idoption": 1,
+        "name": "Thành phố hướng biển",
+        "listimg": ""
       }
     ]
-  }
+}]
+}
